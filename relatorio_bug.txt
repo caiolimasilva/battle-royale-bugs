@@ -1,0 +1,14 @@
+=== RELATÓRIO DE DEFEITOS (BUGTRACKER) ===
+Esquadrão: [Nome da Dupla/Trio]
+
+1. O que foi testado? (Ex: Botão de Login, CSS da tela)
+R: 
+
+2. Qual era o comportamento esperado?
+R: 
+
+3. Qual foi o defeito/falha encontrado?
+R: 
+
+4. Como foi resolvido?
+R:
